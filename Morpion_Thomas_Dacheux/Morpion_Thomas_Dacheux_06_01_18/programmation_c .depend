@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1514399530 source:c:\users\tomtom\documents\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1409412324 c:\users\tomtom\documents\police.h
+
+1514402480 c:\users\tomtom\documents\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+
+1409412322 c:\users\tomtom\documents\couleur.h
+
+1514464146 source:c:\users\tomtom\documents\morpion3.c
+	"graphics.h"
+
+1514399530 source:c:\users\tomtom\documents\morpion\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1409412324 c:\users\tomtom\documents\morpion\police.h
+
+1514402480 c:\users\tomtom\documents\morpion\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+
+1409412322 c:\users\tomtom\documents\morpion\couleur.h
+
+1514470761 source:c:\users\tomtom\documents\morpion\morpion3.c
+	"graphics.h"
+
+1514399530 source:c:\users\tomtom\documents\morpion_thomas_dacheux_06_01_18\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1409412324 c:\users\tomtom\documents\morpion_thomas_dacheux_06_01_18\police.h
+
+1514402480 c:\users\tomtom\documents\morpion_thomas_dacheux_06_01_18\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+
+1409412322 c:\users\tomtom\documents\morpion_thomas_dacheux_06_01_18\couleur.h
+
+1515266407 source:c:\users\tomtom\documents\morpion_thomas_dacheux_06_01_18\morpion.c
+	"graphics.h"
+
